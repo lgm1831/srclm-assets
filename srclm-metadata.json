@@ -1,12 +1,7 @@
 {
   "name": "Solana (Risk of Compulsory Liquidation of Margin)",
   "symbol": "Solana",
-  "description": "Solana token named Risk of Compulsory Liquidation of Margin.",
-  "image": "https://raw.githubusercontent.com/lgm1831/srclm-assets/main/Solana_logo.png",
-  "attributes": [
-    {
-      "trait_type": "Token Type",
-      "value": "SPL Token"
-    }
-  ]
+  "uri": "https://raw.githubusercontent.com/lgm1831/srclm-assets/main/srclm-metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": null
 }
