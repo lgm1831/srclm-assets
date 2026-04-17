@@ -1,7 +1,6 @@
 {
   "name": "SUI",
   "symbol": "SUI",
-  "uri": "https://raw.githubusercontent.com/lgm1831/srclm-assets/main/sui-metadata.json",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "description": "SUI token on Solana.",
+  "image": "https://raw.githubusercontent.com/lgm1831/srclm-assets/main/SUI.png"
 }
